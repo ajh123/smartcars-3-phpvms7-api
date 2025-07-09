@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 
 /**
  * Class SCAuth
- * @package Modules\SmartCARSvms7\Http\Middleware
+ * @package Modules\SmartCARS3phpVMS7Api\Http\Middleware
  */
 class SCHeaders
 {
